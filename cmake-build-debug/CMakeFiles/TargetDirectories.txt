@@ -1,0 +1,3 @@
+/Users/yassinsidkey/CLionProjects/AdvAlgcw1/cmake-build-debug/CMakeFiles/AdvAlgcw1.dir
+/Users/yassinsidkey/CLionProjects/AdvAlgcw1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yassinsidkey/CLionProjects/AdvAlgcw1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
